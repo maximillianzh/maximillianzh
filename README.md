@@ -3,8 +3,9 @@
   
 <h2>👨‍💻 My Projects:</h2>
 
-- <b>Cybersecurity Projects</b>
+- <b>Cybersecurity and Cloud Projects </b>
   - [Created a live Azure SOC with Incident Response](https://github.com/maximillianzh/Azure-SOC)
+  - [Practiced Cloud Security with AWS IAM](https://github.com/maximillianzh/AWS-IAM)
 
 
 
