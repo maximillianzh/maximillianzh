@@ -4,7 +4,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure SOC + Honeynet with Incident Response</b>
-  - [Praciting DS & Algos in Python](https://github.com/maximillianzh/Azure-SOC)
+  - [Azure-SOC](https://github.com/maximillianzh/Azure-SOC)
 
 
 
