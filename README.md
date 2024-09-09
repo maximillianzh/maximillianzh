@@ -3,7 +3,7 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Created a **LIVE** Azure SOC + Honeynet with Incident Response</b>
+- <b>_**LIVE**_ Azure SOC + Honeynet with Incident Response</b>
   - [Azure SOC](https://github.com/maximillianzh/Azure-SOC)
 
 
